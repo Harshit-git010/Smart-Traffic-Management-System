@@ -3,7 +3,7 @@
 
 
 
-We build a code for smart traffic management system using arduino mega <br>
+I build a code for smart traffic management system using arduino mega <br>
 We have four lanes (alpha , beta , gamma , delta) each with a rgb light and a ultra sonic sensor<br>
 
 <br>
